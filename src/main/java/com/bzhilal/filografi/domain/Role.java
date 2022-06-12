@@ -1,6 +1,7 @@
 package com.bzhilal.filografi.domain;
 
 
+
 import com.bzhilal.filografi.domain.enumeration.UserRole;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
