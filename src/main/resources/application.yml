@@ -5,11 +5,11 @@ server:
     include-stacktrace: never
   port: 8080
   servlet:
-    context-path: /strongprettyhomes/api
+    context-path: /handmade/api
 spring:
   datasource:
     password: 1869
-    url: jdbc:postgresql://localhost:5432/strongprettyhomes
+    url: jdbc:postgresql://localhost:5432/handmade
     username: postgres
     driver-class-name: org.postgresql.Driver
   jpa:
